@@ -1,0 +1,4 @@
+repository "R3D2@Estiro@cloud"
+  path "/"
+    br "/main"
+    co "/main"
